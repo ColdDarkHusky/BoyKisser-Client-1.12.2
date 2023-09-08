@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "boykisser",
+    "name": "Boykisser",
+    "description": "you like kissing boys dont you",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://bigrat.monster/",
+    "updateUrl": "",
+    "authorList": [
+      "@Manick"
+
+    ],
+    "credits": "Men",
+    "logoFile": "lambda.png",
+    "dependencies": []
+  }
+]
