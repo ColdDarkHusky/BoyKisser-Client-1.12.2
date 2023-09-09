@@ -25,7 +25,7 @@ object CustomChat : Module(
     }
 
     private enum class TextMode {
-        NAME, ON_TOP, CUSTOM , CULT , DISCORD
+        NAME, ON_TOP, CUSTOM , CULT , DISCORD , UWU , PointLess , Pain
     }
 
     private val modifier = newMessageModifier(
@@ -59,7 +59,10 @@ object CustomChat : Module(
         TextMode.ON_TOP -> "Boykisser Client on Top"
         TextMode.CUSTOM -> customText
         TextMode.CULT -> "BoyKisser Cult On Top"
-        TextMode.DISCORD -> "BoyKisser Client dsc.gg/boykisserclient"
+        TextMode.DISCORD -> "dsc.gg/boykisserclient"
+        TextMode.UWU -> "UWU"
+        TextMode.PointLess -> "PointLess"
+        TextMode.Pain -> "end my suffering"
     }
 
     private fun getFull() = when (decoMode) {
