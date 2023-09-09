@@ -3,7 +3,7 @@
     "modid": "boykisser",
     "name": "Boykisser",
     "description": "you like kissing boys dont you",
-    "version": "${version}",
+    "version": "3.4.2",
     "mcversion": "${mcversion}",
     "url": "https://bigrat.monster/",
     "updateUrl": "",
