@@ -29,7 +29,7 @@ class LambdaMod {
         const val ID = "boykisser"
         const val DIRECTORY = "lambda"
 
-        const val VERSION = "3.4.1"
+        const val VERSION = "3.4.2"
 
         const val APP_ID = 816188713393717258 // DiscordIPC
         const val DEPENDENCIES = "required-after:forge@[14.23.5.2860,);"
